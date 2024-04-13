@@ -10,14 +10,14 @@ NLTK (Natural Language Toolkit)
 Matplotlib (for plotting)
 
 You can install NLTK and Matplotlib using pip:
-'''
+~~~
 pip install nltk matplotlib
-'''
+~~~
 
 Additionally, download the required NLTK resources (if not already downloaded) by uncommenting and running the following lines at least once:
-'''
+~~~
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('vader_lexicon')
-'''
+~~~
