@@ -5,9 +5,9 @@ This Python program demonstrates sentiment analysis using NLTK (Natural Language
 ## Prerequisites
 Before running the program, ensure you have the following installed:
 
-Python 3.x
-NLTK (Natural Language Toolkit)
-Matplotlib (for plotting)
+* Python 3.x
+* NLTK (Natural Language Toolkit)
+* Matplotlib (for plotting)
 
 You can install NLTK and Matplotlib using pip:
 ~~~
